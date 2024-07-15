@@ -6,4 +6,4 @@ deconvTRAP identifies the percentage of whole tissue (input) that can be explain
 
 Following this, deconvolution is operated and input-free TRAP, as well as TRAP-free input libraries are obtained that can be used for following analyses.
 
-![Illustration of the TRAP deconvolution method and results](https://github.com/ste-depo/deconvTRAP/blob/main/figs/Deconvolution_method.pdf?raw=true)
+![Illustration of the TRAP deconvolution method and results](https://github.com/ste-depo/deconvTRAP/blob/main/figs/Deconvolution_method.jpg?raw=true)
